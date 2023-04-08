@@ -1,0 +1,114 @@
+body {
+  background-image: url("https://images.pexels.com/photos/547114/pexels-photo-547114.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0; 
+
+}
+
+.content-box {
+  background-color: #fff;
+  border: 1px solid #f2f2f2;
+  padding: 20px;
+  margin-bottom: 20px;
+  
+  
+}
+
+.content-box h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+
+
+.head-1 {
+  margin: 40px 0px 40px 30px;
+  position: relative;
+  left: 700px;
+}
+
+.head-2 {
+  margin: 40px 0px 40px 10px;
+  position: relative;
+  left: 650px;
+  top: 45px;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+/* Imgages */
+
+.product {
+  width: 30%;
+  margin-bottom: 20px;
+  background-color: #f2f2f2;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 30px;
+  
+}
+.product img {
+  width: 100%;
+  height: auto;
+  background-color: #b4b4b4;
+}
+
+.product h2 {
+  margin-top: 0;
+  font-size: 1.125rem;
+}
+.product p {
+  margin-bottom: 0;
+}
+
+button {
+  border-radius: 10px;
+}
+
+button:hover {
+  background-color: #bdb4aa;
+}
+
+.price {
+  font-weight: bold;
+}
+
+/* Footer */
+
+.bottom-container {
+  background-color: #bbb;
+  margin-top: 100px;
+  padding: 40px 0 2px 0;
+
+}
+
+.follow {
+  margin-left: 865px;
+  margin-bottom: 50px;
+}
+
+.footer-link {
+  color: white;
+  position: relative;
+  left: 615px;
+  font-size: 1.5rem;
+  padding-left: 90px;
+}
+
+
+.foot-p {
+  font-size: 1.2rem;
+  font-weight: bold;
+  position: relative;
+  padding: 20px;
+  left: 860px;
+  
+}
